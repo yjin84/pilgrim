@@ -1,3 +1,5 @@
 # pilgrim
 
-TODO: Описать идею проекта
+Original author: Vladimir Golovanov.
+
+Core developers: Vladimir Golovanov, Eugene Boev.
