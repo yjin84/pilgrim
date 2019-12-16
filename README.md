@@ -1,6 +1,6 @@
 # pilgrim
 
-Pilgrim project is IntelliJ IDEA plugin for search history and navigation support.
+Pilgrim project is the IntelliJ IDEA plugin for search history and navigation support.
 
 Main project idea is quite simple. We search through many lines of legacy code while we develop.
 Some search results are irrelevant, and for some of them we go deeper. And more deeper.
